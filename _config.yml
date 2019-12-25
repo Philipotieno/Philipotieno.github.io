@@ -3,8 +3,8 @@ title               : Philip M Otieno 😊
 description         : >-                               # >- means to ignore newlines until "url:"
                       Hi, I'm Philip Otieno, full stack web developer, which means if you give me one more task my stack will overflow 😊.
                       I found myself taking a new career path as a web developer with the possibility of changing people around me.
-                      I love to help the community around me, I eat blue berries and sometimes I go to the gym 🏋!
-                      Follow me social networks to be friends!
+                      I love to help the community, I eat blue berries and sometimes I go to the gym 🏋!
+                      Follow me on social networks to be friends!
 
 url                 : ""                               # base hostname & protocol for your site (e.g. http://example.com)
 baseurl             : ""                    # subpath of your site (e.g. /blog) [IMPORTANT: use "" if your are hosting at https://username.github.io directly]
@@ -14,7 +14,7 @@ repository          : YoussefRaafatNasry/portfolYOU    # repository metadata on 
 ### Author Info ###
 author:
   name              : Philip Mitchell Otieno
-  image             : /photos/mitch.jpg
+  image             : /photos/phill.JPG
   # behance           : your_username
 # dribbble          : your_username
   email             : philipotieno.github.io
