@@ -1,0 +1,7 @@
+- name: Heroku
+  percentage: 95
+  color: info
+
+- name: Git/Version Control
+  percentage: 90
+  color: success
