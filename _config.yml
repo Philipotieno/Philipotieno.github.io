@@ -43,11 +43,11 @@ author:
 # permalink: articles/:title
 
 
-# ### Collections ###
-# collections:
-#   projects:
-#     output: true
-#     permalink: /projects/:name
+### Collections ###
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name
 
 
 # ### Defaults for collections ###
