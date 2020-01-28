@@ -1,7 +1,15 @@
 - name: Heroku
   percentage: 95
-  color: info
+  color: warning
 
 - name: Git/Version Control
   percentage: 90
+  color: secondary
+
+- name: Docker
+  percentage: 60
   color: success
+
+- name: AWS(ESK)
+  percentage: 50
+  color: dnager
