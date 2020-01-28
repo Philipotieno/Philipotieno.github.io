@@ -1,17 +1,21 @@
-- title: Trainee, Andela Bootcamp, KE
-  from: 2018 December
-  to: 2019 Jan
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Udacity
+  from: 2019 October
+  to: 2020 January
+  description: Took a Full-Stack course and worked on five projects testing different skills;
+                I was able to learn SQL and Data Modeling for the Web, API Development and Documentation(Flask),
+                Authentication(Auth0), Server Deployment, Containerization, and Testing.
+
 
 - title: Software Engineer, Andela, KE
   from: 2019 April
   to: 2019 October
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  description: I worked with a remote team that comprised individuals from Nigeria, Uganda, and Rwanda on external products
+                It was a nice experience, where I enjoyed working on different tasks such as migrating the front end to digital ocean by creating Docker images and enabling CI/CD with GitLab
+                I also learned to different technologies such as Python(Django), React, Vue and Node.
+
+- title: Trainee, Andela Bootcamp, KE
+  from: 2018 December
+  to: 2019 Jan
+  description: This was my first time to create on API and it was one of the most challenging experiences I encountered in the tech field.
+                I learned different technologies such as Git & Version control, continuous deployment to Heroku, HTML/CSS, API versioning, PostgreSQL
+                and API documentation.

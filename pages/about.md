@@ -8,7 +8,23 @@ weight: 3
 # **About Me**
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I am a software engineer with experience in web development, development operations and building of REST APIS in the ICT industry.
+
+I also possess training experience in Math and Chemistry in the education sector.
+
+I have interest in Data Science
+
+<b>Technologies proficient in:</b><br>
+<i>
+    HTML5, Python(Django/Flask), PHP
+    CSS3, Axios, PostgreSQL,Git & Github, Functional Programming, Bootstrap,, Travis CI,
+    Heroku, Docker, Kubernetes, SQL, Auth0
+</i>
+
+<b>Technologies familiar with:</b><br>
+<i>
+    Node, Sequelize, Vue TypeORM, SQL, Webpack, Bootstrap, Enzyme, Mocha, Chai, Jest, Material-UI, React, DevOps
+</i>
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
