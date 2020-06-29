@@ -16,14 +16,13 @@ I have interest in Data Science
 
 <b>Technologies proficient in:</b><br>
 <i>
-    HTML5, Python(Django/Flask), PHP
-    CSS3, Axios, PostgreSQL,Git & Github, Functional Programming, Bootstrap,, Travis CI,
+    ReactJS, HTML5, CSS, Material-UI, Semantic-UI, Python(Django/Flask), Axios, PostgreSQL,Git & Github, Bootstrap,, Travis CI,
     Heroku, Docker, Kubernetes, SQL, Auth0
 </i>
 
 <b>Technologies familiar with:</b><br>
 <i>
-    Node, Sequelize, Vue TypeORM, SQL, Webpack, Bootstrap, Enzyme, Mocha, Chai, Jest, Material-UI, React, DevOps
+    Node, Sequelize, Vue TypeORM, SQL, Webpack, Enzyme, Mocha, Chai, Jest, DevOps
 </i>
 
 <div class="row">

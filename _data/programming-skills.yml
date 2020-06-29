@@ -1,4 +1,4 @@
-- name: Python
+- name: Python(Django/Flask)
   percentage: 80
   color: danger
 
