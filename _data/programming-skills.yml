@@ -6,7 +6,7 @@
   percentage: 70
   color: warning
 
-- name: React
+- name: ReactJS
   percentage: 80
   color: info
 
@@ -14,7 +14,3 @@
 - name: Vue
   percentage: 50
   color: success
-
-- name: PHP
-  percentage: 69
-  color: dark

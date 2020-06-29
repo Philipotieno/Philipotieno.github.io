@@ -6,14 +6,18 @@
   percentage: 75
   color: secondary
 
-- name: Docker
+- name: SASS/SEMANTIC UI
   percentage: 60
   color: success
+
+- name: ADOBE XD
+  percentage: 60
+  color: info
 
 - name: AWS(ESK)
   percentage: 50
   color: dnager
 
-- name: SASS/CSS/SEMANTIC UI
+- name: Docker
   percentage: 60
   color: dark
